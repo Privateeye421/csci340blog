@@ -6,10 +6,12 @@ categories: jekyll update
 ---
 Considering how awful I am at installing files any more complex than a download button, everything went pretty smoothly! I've never
 actually used the command line too extensively, so a lot of how it works was new to me. I figured it out pretty quickly, though.
+
 I only had problems with a few things:
 * I had trouble getting my cmd to see Ruby as a valid command.
 * I also had trouble getting the bundle installer to find my Gemfile.
 * Once I had Jekyll installed, the blog setup command wouldn't work.
+
 For the first problem, all I had to do was restart cmd, as found [here][helplink1]. For the second problem, I ran bundle init,
 which created a new Gemfile that the program did read, as suggested [here][helplink2]. For the third one, Ruby itself suggested
 I rerun "bundle install", which fixed the problem. I'm really not sure why I had to run bundle installer twice to get the whole 
