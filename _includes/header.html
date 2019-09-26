@@ -6,10 +6,12 @@
                  {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url or forloop.first and page.url == '/' or page.url == 'index.html' %}{% assign current = 'current' %}{% endif %}
                  <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
                      <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
-                 </li> 
+                 </li>
                  {% endfor %}
                  <li> <a href="https://privateeye421.github.io/csci340blog/">Home</a></li>
                  <li><a href="https://privateeye421.github.io/csci340blog/about/">About</a></li>
+                 <li><a href="http://mark.goadrich.com/courses/csci340f19/labs/lab4.html">Class Page</a></li>
+                 <li><a href="/pleasegod/">Don't Click This</a></li>
              </ul>
          </nav>
      </div>

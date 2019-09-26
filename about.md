@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Jack Frey. I'm 20 years old. I go to school at Hendrix College. My apartment is in
+Market Square North, where all of the restaurants are, and I get home at 4 P.M. at the latest.
+I don't smoke, but I occasionally drink.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm trying to explain that I'm a person who wishes to live a very quiet life. I take care not
+to trouble myself with any enemies, like winning and losing, that would cause me to lose sleep
+at night. That is how I deal with society, and I know that is what brings me happiness.
